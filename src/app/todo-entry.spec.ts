@@ -4,4 +4,4 @@ describe('TodoEntry', () => {
   it('should create an instance', () => {
     expect(new TodoEntry()).toBeTruthy();
   });
-});
+})
